@@ -1,0 +1,17 @@
+.primary{
+    color:rgb(209, 155, 211);
+    background-color: rgb(70, 69, 68);
+    font-size: 50px;
+    font-family: Georgia,'Times New Roman ',Times,serif
+}
+.font-xl{
+font-size: 104px;
+}
+.d{
+    color: mediumvioletred;
+    font-style: oblique;
+    font-family: 'Impact', Haettenschweiler, Arial Narrow Bold, sans-serif
+}
+.font{
+    font-size: 100px
+}
